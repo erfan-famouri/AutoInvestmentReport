@@ -81,7 +81,7 @@ AutoInvestmentReport/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/AutoInvestmentReport.git
+   git clone https://github.com/erfan-famouri/AutoInvestmentReport.git
    cd AutoInvestmentReport
    ```
 
